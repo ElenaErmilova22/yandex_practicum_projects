@@ -13,7 +13,7 @@
 • Seaborn  
 • Matplotlib  
 • Linear Regression  
-• Random Forest Regressor
+• Random Forest Regressor  
 • R2 score  
 • Plotly.express
 
