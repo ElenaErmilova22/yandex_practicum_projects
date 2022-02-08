@@ -7,7 +7,7 @@
 • Pandas  
 • Seaborn  
 • Matplotlib    
-• Plotly.express
+• Plotly.express  
 • Decision Tree Classifier  
 • Logistic Regression  
 • Random Forest Classifier  
