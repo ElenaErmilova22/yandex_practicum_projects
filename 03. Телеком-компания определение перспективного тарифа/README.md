@@ -8,7 +8,7 @@
 • Seaborn  
 • Matplotlib  
 • Scipy stats  
-• Plotly.express
+• Plotly.express  
 • Статистический анализ
 
 ## Выводы  
