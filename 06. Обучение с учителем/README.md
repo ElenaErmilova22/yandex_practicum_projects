@@ -16,7 +16,7 @@
 • Seaborn  
 • Matplotlib  
 • Recall score, Precision score, F1 score   
-• Roc_auc
+• Roc auc
 
 ## Выводы  
 Построена модель, прогнозирующая отток с метриками:  
