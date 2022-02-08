@@ -8,7 +8,7 @@
 ## Инструменты 
 • Pandas  
 • Seaborn  
-• Matplotlib
+• Matplotlib  
 • Исследовательский анализ данных
 
 ## Выводы  
