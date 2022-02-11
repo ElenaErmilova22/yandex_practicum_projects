@@ -18,3 +18,5 @@
 
 ### Модуль 03   
 • [Линейная алгебра](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/09.%20Защита%20персональных%20данных%20клиентов) / 09. Защита персональных данных клиента
+• [Численные методы](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/10.%20Численные%20методы) / 10. Определение стоимости автомобилей
+
