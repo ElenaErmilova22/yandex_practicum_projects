@@ -22,7 +22,8 @@
 • [Временные ряды](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/11.%20Временные%20ряды) / 11. Прогнозирование заказов такси  
 • [NLP](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/12.%20NLP) / 12. Классификация токсичности комментариев
 
-# [ДИПЛОМ](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/15.%20Диплом)
+### Диплом
+• [ДИПЛОМ](https://github.com/Alexandr-Vell/yandex_practicum_projects/tree/main/15.%20Диплом) / 15. Прогнозирование отттока клиентов
 
 
 
